@@ -2,7 +2,7 @@
 
 This an Employee Management System in Java. This software allows users to add, view, remove, and update employee information. The main purpose of this project was to demonstrate my understanding of Java, and to improve my skills in object-oriented programming and data structures.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gHDh1TjiBjU)
 
 # Development Environment
 
